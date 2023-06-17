@@ -1,8 +1,9 @@
 # AIRE
 AI Reliability Engineering (AIRE) - concept of a robust framework for AI and ML that applies the principles and practices of Site Reliability Engineering (SRE) to AI systems
 
-![aire](/aire.png)
-
+<p align="center">
+  <img src="/aire.png" />
+</p>
 ## Framework Overview
   
 - AIRE aims to make AI products more reliable for business
