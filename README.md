@@ -11,6 +11,10 @@
 - AIRE should providing a comprehensive framework, methods and toolkit to enable AI and ML practitioners, Data Engineers, DevOps and SRE to develop, delivery and operate AI products
 - AIR Engineering should offers an approach to addressing challenges, combining cutting-edge tools and technologies with best practices from the fields of SRE, DevOps and MLOps.
 
+## Reference OpenAI Case 
+
+[Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
+
 ## Components
 - AIRE Framework: A set of guidelines, best practices, templates, checklists and examples for applying AIRE to different types of AI products
 - AIRE Toolkit: A collection of open source tools and technologies that support the implementation of AIRE practices. 
