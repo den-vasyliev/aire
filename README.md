@@ -15,6 +15,9 @@
 
 [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 
+## Reference Aviary Case
+[First fully free, cloud-based infrastructure designed to help developers choose and deploy the right technologies and approach for their LLM-based applications.](https://thenewstack.io/a-new-tool-for-the-open-source-llm-developer-stack-aviary)
+
 ## Components
 - AIRE Framework: A set of guidelines, best practices, templates, checklists and examples for applying AIRE to different types of AI products
 - AIRE Toolkit: A collection of open source tools and technologies that support the implementation of AIRE practices. 
