@@ -33,6 +33,8 @@ AI products and solutions are becoming increasingly important for businesses to 
 - Risk of violating privacy, security, fairness, transparency, and accountability principles when using AI systems
 
 ## Risks
+[EXPLAINING THE RISK](https://22429838.fs1.hubspotusercontent-na1.net/hubfs/22429838/R_AI-OSS_0623_R3.pdf)
+
 These challenges can result in costly errors, delays, inefficiencies, reputational damage, and legal liabilities for businesses that use AI products.
 
 ## AIR Engineering leverages SRE practices
