@@ -15,8 +15,13 @@
 
 [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 
-## Reference Aviary Case
-[First fully free, cloud-based infrastructure designed to help developers choose and deploy the right technologies and approach for their LLM-based applications.](https://thenewstack.io/a-new-tool-for-the-open-source-llm-developer-stack-aviary)
+## Reference GTP-4 Architecture
+[GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)
+
+## Reference Ray Framework
+
+[Effortlessly scale your most complex workloads](https://assets.ctfassets.net/bguokct8bxgd/26Vuu2NJLVnWkX4TkalSmB/fbc74da45885ca8e5048583f8a7e9d25/Ray_OSS_Datasheet_-_Final.pdf)
+
 
 ## Components
 - AIRE Framework: A set of guidelines, best practices, templates, checklists and examples for applying AIRE to different types of AI products
