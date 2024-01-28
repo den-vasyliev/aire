@@ -10,14 +10,40 @@ terraform {
     }
   }
 }
+variable "GITHUB_OWNER" {
+  description = "The owner of the GitHub repository."
+  type        = string
+  default     = ""
+}
+variable "FLUX_GITHUB_REPO" {
+  description = "The name of the GitHub repository for Flux."
+  type        = string
+  default     = ""
+}
 
-variable "GITHUB_OWNER" {}
-variable "FLUX_GITHUB_REPO" {}
-variable "GITHUB_TOKEN" {}
-variable "GOOGLE_REGION" {}
-variable "GOOGLE_PROJECT" {}
-variable "KMS_KEYRING_NAME" {}
+variable "GITHUB_TOKEN" {
+  description = "The GitHub token for authentication."
+  type        = string
+  default     = ""
+}
 
+variable "GOOGLE_REGION" {
+  description = "The Google Cloud region."
+  type        = string
+  default     = "us-central1"
+}
+
+variable "GOOGLE_PROJECT" {
+  description = "The Google Cloud project ID."
+  type        = string
+  default     = ""
+}
+
+variable "KMS_KEYRING_NAME" {
+  description = "The name of the KMS keyring."
+  type        = string
+  default     = ""
+}
 module "github_repository" {
   source                   = "github.com/den-vasyliev/tf-github-repository"
   github_owner             = var.GITHUB_OWNER
