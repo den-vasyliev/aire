@@ -18,7 +18,7 @@ variable "GITHUB_OWNER" {
 variable "FLUX_GITHUB_REPO" {
   description = "The name of the GitHub repository for Flux."
   type        = string
-  default     = ""
+default     = "default-repo-name"
 }
 
 variable "GITHUB_TOKEN" {
