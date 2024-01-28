@@ -10,14 +10,24 @@ terraform {
     }
   }
 }
-
-variable "GITHUB_OWNER" {}
-variable "FLUX_GITHUB_REPO" {}
-variable "GITHUB_TOKEN" {}
-variable "GOOGLE_REGION" {}
-variable "GOOGLE_PROJECT" {}
-variable "KMS_KEYRING_NAME" {}
-
+variable "GITHUB_OWNER" {
+  default = ""
+}
+variable "FLUX_GITHUB_REPO" {
+  default = ""
+}
+variable "GITHUB_TOKEN" {
+  default = ""
+}
+variable "GOOGLE_REGION" {
+  default = "us-central1"
+}
+variable "GOOGLE_PROJECT" {
+  default = ""
+}
+variable "KMS_KEYRING_NAME" {
+  default = "my-keyring"
+}
 module "github_repository" {
   source                   = "github.com/den-vasyliev/tf-github-repository"
   github_owner             = var.GITHUB_OWNER
