@@ -75,7 +75,7 @@ AIRE addresses these challenges by providing:
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ## Community
-
+- [YouTube](https://youtu.be/Ef6JUVLWPwU)
 - [Discord/Slack Channel]
 - [Discussion Forum]
 - [Community Meetings]
