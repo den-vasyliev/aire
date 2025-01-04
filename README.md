@@ -46,6 +46,32 @@ AIRE addresses these challenges by providing:
 - Language chain tracing capabilities
 - AI gateway integration patterns
 
+## Practical Use Cases
+
+### LLM Deployment with Kubernetes Controllers
+Based on the Flux OCI architecture, AIRE provides a streamlined approach for deploying LLMs to Kubernetes:
+- **GitOps-driven Deployment**: Utilize custom controllers to manage LLM deployments through Git workflows
+- **Infrastructure as Code**: Define LLM configurations, resource requirements, and scaling policies declaratively
+- **Automated Rollouts**: Support for canary deployments and automated rollbacks
+- **Resource Optimization**: Intelligent scheduling and resource management for GPU/CPU workloads
+- **Model Versioning**: Integrated version control and model artifact management
+
+### Observability with OpenInference
+Leveraging OpenInference for comprehensive LLM observability:
+- **Distributed Tracing**: End-to-end visibility into LLM request flows and chain-of-thought processes
+- **Performance Metrics**: Track latency, throughput, and resource utilization
+- **Semantic Logging**: Structured logging for prompt engineering and response analysis
+- **Cost Monitoring**: Track token usage and associated costs
+- **Quality Metrics**: Monitor hallucination rates, response quality, and model drift
+
+### AI Gateway Management
+Following industry best practices for AI gateway implementation:
+- **Traffic Management**: Rate limiting, load balancing, and request routing
+- **Security Controls**: Authentication, authorization, and prompt validation
+- **Cost Optimization**: Smart caching and request batching
+- **Model Governance**: Version control, A/B testing, and shadow deployment
+- **API Standardization**: Unified interface for multiple LLM providers
+
 ## Key Benefits
 
 ### For Organizations
