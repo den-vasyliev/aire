@@ -64,7 +64,7 @@ Leveraging OpenInference for comprehensive LLM observability:
 - **Cost Monitoring**: Track token usage and associated costs
 - **Quality Metrics**: Monitor hallucination rates, response quality, and model drift
 
-### Releability with AI Gateway
+### Reliability with AI Gateway
 Following industry best practices for AI gateway implementation:
 - **Traffic Management**: Rate limiting, load balancing, and request routing
 - **Security Controls**: Authentication, authorization, and prompt validation
