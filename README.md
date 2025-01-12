@@ -48,13 +48,14 @@ AIRE addresses these challenges by providing:
 
 ## Practical Use Cases
 
-### LLM Deployment with Kubernetes Controllers
+### LLM Delivery and Deployment with Kubernetes Controllers
 Based on the Flux OCI architecture, AIRE provides a streamlined approach for deploying LLMs to Kubernetes:
 - **GitOps-driven Deployment**: Utilize custom controllers to manage LLM deployments through Git workflows
 - **Infrastructure as Code**: Define LLM configurations, resource requirements, and scaling policies declaratively
 - **Automated Rollouts**: Support for canary deployments and automated rollbacks
 - **Resource Optimization**: Intelligent scheduling and resource management for GPU/CPU workloads
 - **Model Versioning**: Integrated version control and model artifact management
+- **Standardized OCI Image Format**: Ensure consistency by unifying LLM deployments around the OCI image format
 
 ### Observability with OpenInference
 Leveraging OpenInference for comprehensive LLM observability:
