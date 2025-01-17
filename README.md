@@ -108,7 +108,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - [Community Meetings]
 
 ## Reference Architecture & Case Studies
-
+- [ENTERPRISE GENAI DELIVERY PATTERNS](https://files.ontraport.com/media/6a7d512989dd491f93e16ef7f2fe7a3a.phpiqpkys)
 - [FMOps/LLMOps on AWS](https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/)
 - [OpenAI: Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
 - [GPT-4 Architecture Overview](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)
