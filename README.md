@@ -1,7 +1,7 @@
 # AIRE - AI Reliability Engineering
 
 <p align="center">
-  <img src="/air.png" alt="AIRE Logo" />
+  <img src="./img/aire.png" alt="AIRE Logo" />
 </p>
 
 ## About
