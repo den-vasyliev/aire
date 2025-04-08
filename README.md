@@ -1,7 +1,7 @@
 # AIRE - AI Reliability Engineering
 
 <p align="center">
-  <img src="/air.png" alt="AIRE Logo" />
+  <img src="/img/aire.png" alt="AIRE Logo" />
 </p>
 
 ## About
@@ -56,6 +56,10 @@ Based on the Flux OCI architecture, AIRE provides a streamlined approach for dep
 - **Resource Optimization**: Intelligent scheduling and resource management for GPU/CPU workloads
 - **Model Versioning**: Integrated version control and model artifact management
 - **Standardized OCI Image Format**: Ensure consistency by unifying LLM deployments around the OCI image format
+<p align="center">
+  <img src="/img/us_1.png" alt="Use Case" />
+</p>
+
 
 ### Observability with OpenInference
 Leveraging OpenInference for comprehensive LLM observability:
