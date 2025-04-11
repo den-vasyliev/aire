@@ -1,5 +1,7 @@
 # AIRE - AI Reliability Engineering
 
+## _Unreliable AI is worse than no AI at all._
+
 <p align="center">
   <img src="/img/aire.png" alt="AIRE Logo" />
 </p>
