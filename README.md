@@ -95,13 +95,9 @@ Following industry best practices for AI gateway implementation:
 - **Ethical AI**: Methods to reduce risks and ensure compliance
 - **Operational Excellence**: Standardized processes for AI integration
 
-## Getting Started
-
-[Coming Soon]
-
 ## Documentation
 
-[Coming Soon]
+[llm-d is a Kubernetes-native high-performance distributed LLM inference framework](https://llm-d.ai/blog/llm-d-announce)
 
 ## Contributing
 
