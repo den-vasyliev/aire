@@ -49,7 +49,7 @@ AIRE addresses these challenges by providing:
 - AI gateway integration patterns
 
 ## Practical Use Cases
-
+[vLLM Simulator](https://llm-d.ai/docs/architecture/Components/inf-simulator)
 ### LLM Delivery and Deployment with Kubernetes Controllers
 Based on the Flux OCI architecture, AIRE provides a streamlined approach for deploying LLMs to Kubernetes:
 - **GitOps-driven Deployment**: Utilize custom controllers to manage LLM deployments through Git workflows
@@ -59,7 +59,7 @@ Based on the Flux OCI architecture, AIRE provides a streamlined approach for dep
 - **Model Versioning**: Integrated version control and model artifact management
 - **Standardized OCI Image Format**: Ensure consistency by unifying LLM deployments around the OCI image format
 <p align="center">
-  <img src="/img/us_1.png" alt="Use Case" />
+  <img src="/img/llm-d.png" alt="Use Case" />
 </p>
 
 
