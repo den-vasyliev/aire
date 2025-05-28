@@ -14,7 +14,7 @@ As AI becomes critical for business competitiveness, organizations face unique c
 
 ## Why AIRE?
 
-AI systems present unique operational challenges that traditional SRE practices don't fully address:
+[AI systems present unique operational challenges ](https://medium.com/@den.vasyliev/ai-reliability-engineering-the-third-age-of-sre-1f4a71478cfa)that traditional SRE practices don't fully address:
 
 ### Key Challenges
 - **Limited Visibility**: Lack of control over AI lifecycle including data collection, model deployment, and monitoring
